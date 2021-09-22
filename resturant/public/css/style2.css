@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size:1540px 920px;
+    
+    background-repeat: no-repeat;
+}
+#logo{
+    height: 80px;
+    
+    width: 150px;
+    
+}
+header{
+    background-color: rgba(247, 87, 29, 0.993);
+    height: 80px;
+    
+}
+
+
+.caption{
+    margin-top: 120px;
+    margin-left: 70px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.836);
+}
+.caption p{
+    font-size: 25px;
+    color:rgba(211, 212, 209, 0.856);
+    margin-top: 30px;
+
+}
+.free{
+    color:orangered;
+}
+
+.caption a{
+    color: rgb(255, 102, 0);
+    font-size: 35px;
+    font-family:cursive;
+    
+}
